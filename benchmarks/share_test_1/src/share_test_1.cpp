@@ -10,7 +10,7 @@ int share_test_1(in_int_t a[1000], in_int_t b[1000]) {
 
 For_Loop1:
   for (i = 0; i < 1000; i++) {
-    tmp += a[i] * b[999 - i] * 5;
+    tmp += a[i] * b[999 - i] * 787879999;
   }
 
 For_Loop2:
